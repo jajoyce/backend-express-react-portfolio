@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Battleship",
+        "live": "https://jajoyce.github.io/Battleship/",
+        "git": "https://github.com/jajoyce/Battleship",
+        "image": "https://raw.githubusercontent.com/jajoyce/Battleship/main/images/screenshot-5.png"
+    },
+    {
+        "name": "YardSale",
+        "live": "https://secure-shore-19112.herokuapp.com/",
+        "git": "https://github.com/jajoyce/YardSale",
+        "image": "www.imgur.com"
+    },
+    {
+        "name": "Nomad Atlas",
+        "live": "https://nomad-atlas.herokuapp.com/",
+        "git": "https://github.com/jajoyce/Nomad",
+        "image": "www.imgur.com"
+    }
+]
