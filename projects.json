@@ -9,12 +9,12 @@
         "name": "YardSale",
         "live": "https://secure-shore-19112.herokuapp.com/",
         "git": "https://github.com/jajoyce/YardSale",
-        "image": "www.imgur.com"
+        "image": "https://i.imgur.com/NNqWBtE.png"
     },
     {
         "name": "Nomad Atlas",
         "live": "https://nomad-atlas.herokuapp.com/",
         "git": "https://github.com/jajoyce/Nomad",
-        "image": "www.imgur.com"
+        "image": "https://i.imgur.com/Lpushho.png"
     }
 ]
